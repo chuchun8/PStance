@@ -80,6 +80,6 @@ def data_loader(x_all, batch_size, data_type):
 def sep_test_set(input_data):
     
     # split the combined test set for Trump, Biden and Bernie
-    data_list = [input_data[:841], input_data[841:1657], input_data[1657:2374]]
+    data_list = [input_data[:777], input_data[777:1522], input_data[1522:2157]]
     
     return data_list
