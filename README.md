@@ -2,7 +2,6 @@
 
 ACL 2021 (Findings) paper: P-Stance: A Large Dataset for Stance Detection in Political Domain.
 
-#Please request the dataset at yli300@uic.edu.
 The dataset is available at [here](https://drive.google.com/drive/folders/1so8lY1XKpnhUtTvb15edEz6aeHt7CSuh?usp=sharing).
 
 ## Abstract
